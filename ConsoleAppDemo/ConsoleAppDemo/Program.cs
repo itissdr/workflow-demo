@@ -8,7 +8,7 @@ namespace ConsoleAppDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is the master Branch");
+            Console.WriteLine("This is the sdr Branch");
         }
     }
 }
